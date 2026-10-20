@@ -10,7 +10,7 @@ Python and SQLite-based phishing URL risk checker that analyzes suspicious URL p
 6.Searchable scan history
 7.Parameterized SQL queries
 8.Input validation and error handling
-##Technologies:
+\n##Technologies:
 1.Python 3
 2.SQLite
 3.Regular expression
