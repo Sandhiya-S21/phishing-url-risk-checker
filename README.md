@@ -1,5 +1,6 @@
 # phishing-url-risk-checker
 Python and SQLite-based phishing URL risk checker that analyzes suspicious URL patterns, calculates a risk score, and stores scan history for review.
+
 ##Features:
 1.URL Validation
 2.Suspicious pattern detection
