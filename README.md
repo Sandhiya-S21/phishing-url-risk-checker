@@ -42,7 +42,7 @@ Risk Levels:
 - 0-24 :Low Risk
 - 25-49:Medium Risk
 - 50-100:High Risk
-- 
+  
 ##Limitations:
 This is an educational, rule-based tool. It does not verify whether a website is genuinely malicious or false negatives. HTTP does not guarantee that a site is safe.
 The tool does not visit or automatically open submitted URLs.
